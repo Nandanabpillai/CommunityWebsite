@@ -1,4 +1,4 @@
-# Community Websitr
+# Community Website
 A sample Community website using ReactJs
 
 # Website Link
